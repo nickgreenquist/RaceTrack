@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SteeringAttributes.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="46" Column="35" />
+      <File FileName="Assets\Scripts\ObstacleScript.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\SteeringVehicle.cs" Line="147" Column="3" />
+      <File FileName="Assets\Scripts\Steer.cs" Line="90" Column="10" />
+      <File FileName="Assets\Scripts\SteeringAttributes.cs" Line="6" Column="38" />
+      <File FileName="Assets\Scripts\SmoothFollow.cs" Line="24" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
